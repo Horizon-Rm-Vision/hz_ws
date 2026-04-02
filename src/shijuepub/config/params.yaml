@@ -1,0 +1,3 @@
+pub:
+  ros__parameters:
+    hp: 400
